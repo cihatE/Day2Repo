@@ -1,0 +1,13 @@
+If you have issue seeing your username
+follow this steps
+or issues:-- It seems to be atom bug,
+I have solution :
+1. Open new atom window
+2. Click OK Github tab on the right bottom
+3. Click clone repository
+***copy URL of any public repo and click clone
+1. Now the login button will show up
+2. Get your token by following the link
+3. Paste your token in
+4. Now login successful
+5. Go back to previous window and publish your
